@@ -12,8 +12,11 @@ Penn State grad (2020) who started my career in Technology Risk Consulting at Er
 
 ## 🔧 Skills & Technologies
 **Networking:** Cisco Packet Tracer, VLANs, Routing & Switching, Subnetting, TCP/IP  
+
 **Security & Risk:** GRC, Risk Assessment, Controls Testing, Compliance  
+
 **Tools:** Git, GitHub, Linux, Command Line  
+
 **Currently Learning:** Network Automation, Python for Infrastructure
 
 ## 🚀 Featured Projects
