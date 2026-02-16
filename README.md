@@ -6,7 +6,8 @@ Penn State grad (2020) who started my career in Technology Risk Consulting at Er
 ## 💼 Professional Experience
 **Current Focus:** GRC & Risk Assessment  
 **Background:** Technology Risk Consulting @ EY → GRC Analyst @ Squarespace
-**Education:** MS Cybersecurity (Yeshiva) | BS (Penn State)
+
+**Education:** MS Cybersecurity (Yeshiva) | BS Management Information Systems (Penn State)
 
 ## 🔧 Skills & Technologies
 **Networking:** Cisco Packet Tracer, VLANs, Routing & Switching, Subnetting, TCP/IP  
